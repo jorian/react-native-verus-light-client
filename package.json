@@ -35,8 +35,9 @@
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "dependencies": {
+    "@react-native-community/cli-platform-android": "^11.3.0",
     "react": "17.0.1",
-    "react-native": "0.64.0"
+    "react-native": "0.68.5"
   },
   "devDependencies": {},
   "react-native": {
